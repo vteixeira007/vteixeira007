@@ -27,14 +27,14 @@
 
 <h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
-###
+### Olá, eu sou o Vinícius de Lira Teixeira
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vteixeira007&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vteixeira007&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
+### Tecnologias que eu uso no meu dia a dia
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="30" alt="matlab logo"  />
