@@ -11,10 +11,14 @@
   <a href="https://www.scilab.org/" target="_blank" style="margin-right: 20px;">
     <img align="center" alt="SCILAB" src="https://upload.wikimedia.org/wikipedia/commons/b/b1/Scilab_Logo.png" width="120"/>
   </a>
-  <a href="https://www.gnu.org/software/octave/" target="_blank">
+  <a href="https://www.gnu.org/software/octave/" target="_blank" style="margin-right: 20px;">
     <img align="center" alt="GNU Octave" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octave_logo.svg" width="120"/>
   </a>
+  <a href="https://www.r-project.org/" target="_blank">
+    <img align="center" alt="R" src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo_2013.svg" width="120"/>
+  </a>
 </div>
+
 
 
 
