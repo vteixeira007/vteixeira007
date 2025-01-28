@@ -1,33 +1,6 @@
-### Olá, eu sou o Vinícius de Lira Teixeira
+<h2 align="left"> Olá 👋! Meu nome é Vinícius de Lira Teixeira....</h2>
 
-
-
-![Vinícius Teixeira GitHub stats](https://github-readme-stats.vercel.app/api?username=vteixeira007&show_icons=true&theme=highcontrast)
-
-
-## Tecnologias que eu uso no meu dia a dia
-
-<div style="display: inline_block"><br/>
-  <a href="https://www.mathworks.com/products/matlab.html" target="_blank" style="margin-right: 20px;">
-    <img align="center" alt="MATLAB" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="75"/>
-  </a>
-  <a href="https://www.scilab.org/" target="_blank" style="margin-right: 20px;">
-    <img align="center" alt="SCILAB" src="https://upload.wikimedia.org/wikipedia/commons/b/b1/Scilab_Logo.png" width="75"/>
-  </a>
-  <a href="https://www.gnu.org/software/octave/" target="_blank" style="margin-right: 20px;">
-    <img align="center" alt="GNU Octave" src="https://upload.wikimedia.org/wikipedia/commons/6/62/Gnu-octave.png" width="75"/>
-  </a>
-  <a href="https://www.r-project.org/" target="_blank" style="margin-right: 20px;">
-    <img align="center" alt="R" src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Rlogo.png" width="75"/>
-  </a>
-</div><br/>
-
-# TESTE
-
-
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
-
-### Olá, eu sou o Vinícius de Lira Teixeira
+### 
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vteixeira007&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=highcontrast&locale=en&hide_border=false" height="150" alt="stats graph"  />
@@ -36,21 +9,6 @@
 
 ### Tecnologias que eu uso no meu dia a dia
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="30" alt="matlab logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=octave" height="30" alt="octave logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="30" alt="r logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" height="30" alt="rstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="arduino logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg" height="30" alt="embeddedc logo"  />
-</div>
-
-#### NOVO
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="30" alt="matlab logo"  />
   <img width="12" />
