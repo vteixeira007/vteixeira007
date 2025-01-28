@@ -1,4 +1,4 @@
-<h2 align="left"> Olá 👋! Meu nome é Vinícius de Lira Teixeira....</h2>
+<h2 align="left"> Olá 👋! Meu nome é Vinícius de Lira Teixeira, seja bem vindo!</h2>
 
 ### 
 
