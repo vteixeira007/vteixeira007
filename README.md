@@ -14,6 +14,8 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=octave" height="30" alt="octave logo"  />
   <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b1/Scilab_Logo.png" height="30" alt="scilab logo" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="30" alt="r logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" height="30" alt="rstudio logo"  />
@@ -21,8 +23,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="arduino logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg" height="30" alt="embeddedc logo"  />
-  <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b1/Scilab_Logo.png" height="30" alt="scilab logo" />
 </div>
 
 
@@ -36,14 +36,6 @@
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
 </div>
 
-
-
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/vteixeira007/vteixeira007/output/snake.svg" alt="Snake animation" />
 
 ###
 
