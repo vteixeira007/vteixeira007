@@ -42,4 +42,8 @@
 
 ###
 
+<br clear="both">
 
+<img src="https://raw.githubusercontent.com/vteixeira007/vteixeira007/output/snake.svg" alt="Snake animation" />
+
+###
