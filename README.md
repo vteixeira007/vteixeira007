@@ -1,11 +1,13 @@
 <h2 align="left"> Olá 👋! Meu nome é Vinícius de Lira Teixeira, seja bem vindo!</h2>
 
-### 
+###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vteixeira007&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=highcontrast&locale=pt-br&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vteixeira007&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=highcontrast&hide_border=false" height="150" alt="languages graph"  />
 </div>
+
+###
 
 ### Tecnologias que eu uso no meu dia a dia
 
